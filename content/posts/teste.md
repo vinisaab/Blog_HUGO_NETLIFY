@@ -1,10 +1,14 @@
 ---
-title: "Teste"
-date: 2019-10-16T08:02:18-03:00
-draft: true
-toc: false
-images:
+title: Teste
+date: '2019-10-16T10:21:14-03:00'
+categories:
+  - teste
 tags:
-  - untagged
+  - teste
+keywords:
+  - teste
+autoThumbnailImage: false
+thumbnailImagePosition: top
+coverImage: /images/uploads/cover-post.jpg
 ---
-
+Teste
